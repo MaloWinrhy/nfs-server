@@ -1,0 +1,26 @@
+2025-01-20T13:24:59.850Z - INFO: Server started on port 3000
+2025-01-20T13:24:59.854Z - INFO: Connected to MongoDB
+2025-01-20T14:24:51.486Z - INFO: Server started on port 3000
+2025-01-20T14:24:51.491Z - INFO: Connected to MongoDB
+2025-01-20T14:35:05.474Z - INFO: Request: GET / - Status: 404
+2025-01-20T14:35:16.014Z - INFO: Request: GET /generate-facture - Status: 404
+2025-01-20T14:36:10.753Z - INFO: Server started on port 3000
+2025-01-20T14:36:10.758Z - INFO: Connected to MongoDB
+2025-01-20T14:36:16.730Z - INFO: Request: GET /generate-facture - Status: 404
+2025-01-20T14:36:19.060Z - INFO: Request: GET /generate-facture - Status: 404
+2025-01-20T14:36:46.969Z - INFO: Request: POST /generate-facture - Status: 404
+2025-01-20T14:37:16.416Z - INFO: Request: GET /generate-facture - Status: 404
+2025-01-20T14:38:11.530Z - INFO: Request: POST /generate-facture - Status: 404
+2025-01-20T14:38:12.631Z - INFO: Request: POST /generate-facture - Status: 404
+2025-01-20T14:38:13.252Z - INFO: Request: POST /generate-facture - Status: 404
+2025-01-20T14:38:13.875Z - INFO: Request: POST /generate-facture - Status: 404
+2025-01-20T14:38:41.886Z - INFO: Request: POST /user - Status: 400
+2025-01-20T14:38:52.322Z - INFO: Request: POST /generate-facture - Status: 404
+2025-01-20T14:38:53.400Z - INFO: Request: POST /generate-facture - Status: 404
+2025-01-20T14:40:22.222Z - INFO: Server started on port 3000
+2025-01-20T14:40:22.227Z - INFO: Connected to MongoDB
+2025-01-20T14:40:26.016Z - INFO: Request: POST /generate-facture - Status: 200
+2025-01-20T14:42:54.414Z - INFO: Server started on port 3000
+2025-01-20T14:42:54.418Z - INFO: Connected to MongoDB
+2025-01-20T14:43:09.140Z - INFO: Request: POST /generate-facture - Status: 200
+2025-01-20T14:43:24.860Z - INFO: Request: POST /generate-facture - Status: 200
