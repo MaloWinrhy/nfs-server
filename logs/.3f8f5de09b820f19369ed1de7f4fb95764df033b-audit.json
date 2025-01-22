@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/malohenry/Projects/School/node-server/logs/.3f8f5de09b820f19369ed1de7f4fb95764df033b-audit.json",
+    "files": [
+        {
+            "date": 1737539857471,
+            "name": "/Users/malohenry/Projects/School/node-server/logs/application-2025-01-22.log",
+            "hash": "6020c35e9d9464470d168bad54e204b06f780506219271919eccc33dbed17ca7"
+        }
+    ],
+    "hashType": "sha256"
+}

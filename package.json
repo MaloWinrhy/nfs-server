@@ -10,7 +10,10 @@
     "express": "^4.21.2",
     "fs": "^0.0.1-security",
     "mongoose": "^8.9.5",
+    "nodemailer": "^6.9.16",
     "pdfkit": "^0.16.0",
-    "rotating-file-stream": "^3.2.5"
+    "rotating-file-stream": "^3.2.5",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
   }
 }

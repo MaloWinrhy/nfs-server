@@ -5,6 +5,7 @@ const articleRoute = require('./routes/articleRoute');
 const presentationRoute = require('./routes/presentationRoute');
 const userRoute = require('./routes/userRoute');
 const factureRoute = require('./routes/factureRoute');
+const pieceRoute = require('./routes/pieceRoute');
 const Logger = require('./logger');
 const EventEmitter = require('events');
 
@@ -38,6 +39,7 @@ app.use('/articles', articleRoute);
 app.use('/presentation', presentationRoute);
 app.use('/user', userRoute);
 app.use('/generate-facture', factureRoute);
+app.use('/generate-facture', pieceRoute);
 
 app.listen(port, () => {
     logger.info(`Server started on port ${port}`);
